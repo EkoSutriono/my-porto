@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import Arts from './arts.vue'
+import Arts from './Arts.vue'
 
 export default {
   name: 'Tabs',
